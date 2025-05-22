@@ -2,7 +2,7 @@
 💻 **Full Stack Developer** | 🎨 UI/UX Enthusiast | ☁️ Cloud Computing Fan  
 
 🌱 Passionate about **Web Development, AI, and Open Source**!  
-🏆 **Winner of Nirman Hackathon** | 🎓 **Final Year CS Student**  
+🏆 **Winner of Nirman Hackathon** | 🎓 **Computer Engineer**  
 
 ---
 
