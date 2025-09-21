@@ -14,8 +14,7 @@ Cloud Integration & Reporting (AWS, interactive dashboards, BI solutions)
 
 🚀 Always exploring new ways to bridge technology, analytics, and business impact.
 
-📈 Business Analyst | 💻 Full Stack Developer
-🎨 UI/UX Enthusiast | ☁️ Cloud Computing Fan  
+📈 Business Analyst | 💻 Full Stack Developer | 🎨 UI/UX Enthusiast | ☁️ Cloud Computing Fan  
 
 🌱 Passionate about **Web Development, AI, and Data Analytics**!  
 🏆 **Winner of Nirman Hackathon** | 🎓 **Computer Engineer**  
