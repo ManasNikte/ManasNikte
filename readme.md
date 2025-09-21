@@ -1,16 +1,26 @@
-# **👋 Hi, I'm Manas Nikte!** 🚀  
-💻 **Full Stack Developer** | 🎨 UI/UX Enthusiast | ☁️ Cloud Computing Fan  
+👋 Hi, I’m Manas Nikte — a graduate student at Northeastern University (MS in Business Analytics) with a background in Computer Engineering.
 
-🌱 Passionate about **Web Development, AI, and Open Source**!  
+🔍 I specialize in:
+
+Data Analytics & Visualization (Python, R, SQL, Tableau, Power BI, Excel)
+
+Full-Stack Development (MERN, PHP, Flask, MySQL, MongoDB)
+
+Cloud Integration & Reporting (AWS, interactive dashboards, BI solutions)
+
+📊 I enjoy transforming raw data into insights and building tools that improve decision-making for businesses. Alongside academics, I’ve built dashboards, predictive ML models, and CRM systems, and worked as a freelance data analyst & developer.
+
+🌱 Outside of work, I’m passionate about fitness and the outdoors — training consistently since 2022 and completing 30+ hikes across the Western Ghats and Himalayas.
+
+🚀 Always exploring new ways to bridge technology, analytics, and business impact.
+
+📈 Business Analyst | 💻 Full Stack Developer
+🎨 UI/UX Enthusiast | ☁️ Cloud Computing Fan  
+
+🌱 Passionate about **Web Development, AI, and Data Analytics**!  
 🏆 **Winner of Nirman Hackathon** | 🎓 **Computer Engineer**  
 
----
 
-## **💡 About Me**  
-🔹 **Freelance Web Developer** for Small Businesses & Startups  
-🔹 Proficient in **MERN Stack, Flask, PHP, AWS, and DevOps**  
-🔹 Former **Coding Club Head @ SCOE**  
-🔹 Love building **scalable web apps** & contributing to open source!  
 
 ---
 
@@ -26,13 +36,6 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## **📜 Certifications**  
-🎓 **Advanced SEO** – Simplilearn  
-🎓 **Data Structures in Python** – Perfect E-Learning  
-🎓 **MERN Stack Mastery** – John Smilga  
-🎓 **PHP Crash Course** – Udemy  
 
 ---
 
