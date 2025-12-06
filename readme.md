@@ -374,20 +374,6 @@ class DataAnalyst:
 
 ---
 
-## 🎯 Current Goals for 2026
-
-```markdown
-✅ Master advanced ML techniques (Deep Learning, NLP, Computer Vision)
-✅ Build production-grade data pipelines on AWS/Snowflake
-⬜ Contribute to open-source data science & ML projects
-⬜ Complete AWS Certified Solutions Architect
-⬜ Complete Google Data Analytics Professional Certificate
-⬜ Launch personal data analytics blog/portfolio website
-⬜ Secure full-time Data Analyst/Data Scientist role in Fortune 500
-```
-
----
-
 ## 🌱 Beyond Tech
 
 When I'm not analyzing data or building applications, you'll find me:
