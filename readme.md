@@ -2,15 +2,15 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Business+Analyst+%7C+MSBA+%40+Northeastern;Turning+Data+into+Business+Decisions;BI+Dashboards+%E2%80%A2+Insights+%E2%80%A2+Storytelling;Backed+by+a+Data+Engineering+Foundation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Business+%26+Data+Analyst+%7C+Analytics+%2B+BI+with+an+Engineer's+Depth;SQL+%C2%B7+Python+%C2%B7+Tableau+%C2%B7+Power+BI+%C2%B7+AWS+%C2%B7+Snowflake;MS+Business+Analytics+%40+Northeastern+'26;Founder+%E2%80%A2+Data+Engineer+%E2%80%A2+BI+Storyteller)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-📍 Boston, MA · Open to relocation across the U.S. · Remote or onsite
-🎓 MS in Business Analytics @ Northeastern University
-📊 Business Analyst | 📈 BI & Data Visualization | 🔎 Analytics & Insights
+📍 Boston, MA · Open to relocation across the U.S. · Remote, hybrid, or onsite
+🎓 MS in Business Analytics @ Northeastern University (Dec 2026)
+💼 Business & Data Analyst | Analytics + BI with an engineer's depth
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manasnikte)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://manasnikte.netlify.app)
@@ -23,25 +23,26 @@
 
 ## 🚀 About Me
 
-I'm a **Business Analyst** pursuing my **MS in Business Analytics at Northeastern University**, with a hands-on background in **Computer Engineering** and software development. I sit comfortably between the business and the data: I gather what stakeholders actually need, dig into the numbers, and turn the result into dashboards, models, and recommendations people can act on.
+I help teams turn messy data into decisions they can act on — and because I spent three years building the systems that produce that data, I can go deeper than the dashboard.
 
-That engineering foundation isn't a side note — it's how I can own a question end to end, from messy source data to a clean, decision-ready story.
+I'm completing my **MS in Business Analytics at Northeastern University** (Dec 2026), layering business strategy and analytics on top of a **Computer Engineering** background and 3+ years shipping production software and data infrastructure. I sit comfortably between the business and the engineering: I gather what stakeholders actually need, build the pipeline that gets them clean data, and turn the result into dashboards, models, and recommendations people can act on.
 
 ```python
-class BusinessAnalyst:
+class BusinessAndDataAnalyst:
     def __init__(self):
         self.name = "Manas Nikte"
-        self.role = "Business Analyst"
+        self.role = "Business & Data Analyst"
         self.location = "Boston, MA"
         self.education = {
             "current": "MS Business Analytics @ Northeastern (2025-2026)",
             "previous": "BE Computer Engineering @ University of Mumbai"
         }
+        self.foundation = "3+ years founding, building, and shipping production software & data systems"
         self.strengths = [
-            "Translating business questions into analysis",
-            "BI dashboards & executive storytelling",
+            "Founder & lead engineer — shipped 12+ production apps to 15+ clients",
+            "Cloud data pipelines on AWS (S3, Glue, Athena, DynamoDB)",
+            "BI dashboards & executive storytelling (Tableau, Power BI)",
             "SQL, statistical modeling & experimentation",
-            "Turning raw data into decisions",
         ]
 
     def current_focus(self):
@@ -58,7 +59,6 @@ class BusinessAnalyst:
 - Requirements gathering & stakeholder alignment
 - Translating business goals into metrics & KPIs
 - Process mapping & gap analysis
-- Turning analysis into clear recommendations
 - Decision support & executive reporting
 
 </td>
@@ -68,7 +68,6 @@ class BusinessAnalyst:
 - Interactive dashboards (Tableau, Power BI)
 - KPI tracking & performance reporting
 - Data storytelling for non-technical audiences
-- Self-service reporting & drill-downs
 - Advanced Excel analytics
 
 </td>
@@ -81,17 +80,15 @@ class BusinessAnalyst:
 - Predictive modeling (Python / R)
 - A/B testing & experimentation
 - Time-series forecasting
-- Cohort & segmentation analysis
 
 </td>
 <td width="50%">
 
-**🛠️ Technical Foundation**
+**🛠️ Data & Cloud Engineering**
 - SQL querying & optimization
+- AWS pipelines (S3, Glue, Athena, DynamoDB)
 - ETL / data prep & automation (Alteryx, Python)
-- Data modeling & cloud data platforms
 - Full-stack & API background (MERN, Flask, PHP)
-- Comfortable owning the full data-to-decision pipeline
 
 </td>
 </tr>
@@ -100,17 +97,33 @@ class BusinessAnalyst:
 ### 🏆 Key Highlights
 
 ```diff
++ ☁️  Built an AWS data pipeline from scratch, cutting turnaround from days to minutes
++ 🚀 Founded & ran a software/data services company — 12+ apps shipped to 15+ clients
 + 📊 Delivered 5+ BI dashboards and analytics solutions for real stakeholders
 + 📑 Published research: "OvaCare" — ICTMT-25 International Conference (Apr 2025)
 + 🥇 First Prize — Nirmaan National Hackathon 2023 (national level, India)
 + 👨‍💼 Head of Coding Club (2023–2024) — organized hackathons & mentorship
-+ 💼 Founder & consultant — delivered data/BI solutions to 15+ SMEs & startups
-+ 🎓 Certified: Financial Markets (Yale) + 4 cloud/data-engineering tracks
++ 🎓 Certified: AWS, Azure, Databricks, Snowflake & Airflow (DataCamp, 2026)
 ```
 
 ---
 
 ## 🛠️ Technical Skills
+
+### ☁️ Cloud & Data Engineering
+<div>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078C8?style=for-the-badge)
+
+</div>
+
+Hands-on with AWS S3, Glue (Python ETL jobs & crawlers), Athena, and DynamoDB — used to consolidate 50+ data sources into a single production pipeline. DataCamp-certified in Snowflake, Databricks, and Airflow (TaskFlow API, Asset-based scheduling, Delta Lake medallion architecture) and the Azure Developer Associate (AZ-204) track.
 
 ### 📈 Business Intelligence & Visualization
 <div>
@@ -135,24 +148,12 @@ class BusinessAnalyst:
 
 </div>
 
-### 💾 Databases & Data Engineering
+### 💾 Databases
 <div>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Alteryx](https://img.shields.io/badge/Alteryx-0078C8?style=for-the-badge)
-
-</div>
-
-### ☁️ Cloud
-<div>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </div>
 
@@ -184,10 +185,13 @@ class BusinessAnalyst:
 ## 💼 Experience
 
 **Cloud Data Analyst** — NM Infocom | Jun 2025 – Aug 2025
-Replaced static Excel reporting with 5 live SQL dashboards, cutting the management decision cycle in half; consolidated 50+ data sources into a single pipeline and added automated anomaly detection that removed 15+ hrs/week of manual work.
+Designed and deployed an AWS data pipeline from scratch (S3, Glue, Athena, DynamoDB), consolidating 50+ data sources and cutting turnaround from days to under 10 minutes. Replaced static Excel reporting with 5 live SQL dashboards, halving the management decision cycle, and added automated anomaly detection that removed 15+ hrs/week of manual work.
 
 **Founder & Data Solutions Consultant** — WitJab Technologies | Jan 2022 – Dec 2024
-Gathered requirements and delivered data, BI, and web solutions for 15+ SME and startup clients; shipped 5+ Tableau/Power BI dashboards and built integration pipelines that cut manual operational overhead by ~40%.
+Founded and ran a software & data services company for three years, gathering requirements and delivering data, BI, and web solutions for 15+ SME and startup clients across e-commerce, healthcare, and SaaS. Shipped 12+ production applications (MERN, Django, Flask, PHP/MySQL) — including custom CRM platforms for Evaraa Relaxation Salon, NM Infocom, IR Recordings, and FlickDrive — plus 5+ Tableau/Power BI dashboards, and built integration pipelines that cut manual operational overhead by ~40%.
+
+**Business Analyst Intern** — Nine Ninety Productions
+Built Tableau dashboards that replaced manual reporting and ran revenue analysis that helped leadership reallocate toward higher-margin work.
 
 **Web Development Intern** — Macksofy Technologies | Jun 2024 – Dec 2024
 Profiled and rewrote 20+ SQL queries and endpoints (cutting page-load time ~30%) and led knowledge-sharing sessions on SQL optimization for a 10-person team.
@@ -195,6 +199,16 @@ Profiled and rewrote 20+ SQL queries and endpoints (cutting page-load time ~30%)
 ---
 
 ## 🔬 Featured Projects
+
+### 🩺 OvaCare – HealthGuard *(Published Research)*
+**`Python`** **`Flask`** **`MongoDB`** **`ML Ensemble`**
+AI healthcare platform for PCOS risk prediction reaching **93.39% accuracy** across 7 models, with 3 role-based dashboards that improved diagnostic workflow efficiency by **40%**. Published at **ICTMT-25 International Conference (Apr 2025)**.
+🔗 [Live Demo](https://ovacare.onrender.com/)
+
+### 💇 Evaraa — Salon Management CRM
+**`PHP`** **`MySQL`** **`JavaScript`** **`AJAX`**
+End-to-end CRM built for a real client via WitJab — appointment automation, a promo engine, multi-role access, and revenue dashboards.
+🔗 [Live](https://evaraarelaxationsalon.com/)
 
 ### 👥 Human Resources BI Dashboard
 **`Tableau`** **`Power BI`** **`Excel`** **`Python`**
@@ -221,17 +235,13 @@ End-to-end ETL workflow that scraped **500+ records**, cleaned and enriched them
 Multi-model analysis across **101,766 clinical records** that uncovered a "polypharmacy tipping point" (**4x higher readmission risk** above 20 medications) and a Readmission Risk Score — a data-driven case for **~$1.5M in annual cost reduction**.
 🔗 [Repo](https://github.com/ManasNikte/Predicting-30-Day-Hospital-Readmissions-for-Diabetic-Patients)
 
-### 🩺 OvaCare – HealthGuard *(Published Research)*
-**`Python`** **`Flask`** **`MongoDB`** **`ML Ensemble`**
-AI healthcare platform for PCOS risk prediction reaching **93.39% accuracy** across 7 models, with 3 role-based dashboards that improved diagnostic workflow efficiency by **40%**. Published at **ICTMT-25 International Conference (Apr 2025)**.
-🔗 [Live Demo](https://ovacare.onrender.com/)
-
 <details>
 <summary>🧩 <b>More development & ML work</b> (click to expand)</summary>
 
 - **Cat or Dog Image Classifier** — CNN + Flask deep-learning web app for real-time image prediction. [Repo](https://github.com/ManasNikte/cat-dog-flask-app)
 - **NM Infocom CRM** — Full-stack CRM with role-based access control (PHP, MySQL, JS).
-- **Evaraa Salon CRM & Booking** — Appointment automation, promo engine, and revenue dashboards. [Live](https://evaraarelaxationsalon.com/)
+- **IR Recordings CRM** — CRM built for a music-production company via WitJab.
+- **FlickDrive CRM** — CRM built for a media-production company via WitJab.
 - **WitJab Portfolio Platform** — MERN portfolio with admin dashboard and lead capture.
 
 </details>
@@ -241,41 +251,45 @@ AI healthcare platform for PCOS risk prediction reaching **93.39% accuracy** acr
 ## 📚 Education & Certifications
 
 ### 🎓 Education
-- **MS in Business Analytics** — Northeastern University, Boston, MA | *Sep 2025 – Dec 2026*
+- **MS in Business Analytics** — Northeastern University, D'Amore-McKim School of Business, Boston, MA | *Sep 2025 – Dec 2026 (Expected)*
   Coursework: Statistical Modeling, Data Management & Big Data, Machine Learning, Business Intelligence, Data Mining, Supply Chain Analytics, Information Visuals & Dashboards
 - **BE in Computer Engineering** — University of Mumbai, India | *Dec 2021 – May 2025*
 
 ### 📜 Certifications
 
-**Cloud & Data Engineering** *(DataCamp exam-aligned tracks)*
-- ❄️ **Associate Data Engineer in Snowflake** — DataCamp | 2026
-- 🔶 **Associate Data Engineer in Databricks** — DataCamp | 2026
-- 🔷 **Microsoft Azure Developer Associate (AZ-204)** — DataCamp | 2026
-- 🟧 **AWS Cloud Practitioner (CLF-C02)** — DataCamp | 2026
+**Cloud & Data Engineering** *(DataCamp, 2026)*
+- ❄️ **Associate Data Engineer in Snowflake**
+- 🔶 **Associate Data Engineer in Databricks**
+- 🌀 **Building Data Pipelines with Apache Airflow (Airflow 3.2)**
+- 🔷 **Microsoft Azure Developer Associate (AZ-204)**
+- 🟧 **AWS Cloud Practitioner (CLF-C02)**
 
 **Analytics & Finance**
 - 📊 **Data Analysis: SQL, Tableau, Power BI & Excel** | May 2025
 - 🤖 **Machine Learning A-Z (Python & R)** | Jun 2025
 - 📈 **Financial Markets** — Yale University (Prof. Robert Shiller) | Aug 2025
 - 💹 **The Complete Financial Analyst** — 365 Careers | Jul 2025
+- 🤖 **Developing AI Applications** *(OpenAI API, prompt engineering, RAG, LangChain)* — DataCamp | 2026
 
 ---
 
 ## 🌱 Beyond Tech
 
+- 🌍 **Global Field Study** — Netherlands & Belgium with D'Amore-McKim School of Business, exploring sustainability, policy, and innovation
 - 🏔️ **Hiking** — 30+ hikes across the Western Ghats and Himalayas
 - 💪 **Fitness** — consistent training since 2022
-- 📚 **Learning** — always picking up new BI, analytics, and data tools
+- 📚 **Learning** — always picking up new BI, analytics, and data engineering tools
 - 🎯 **Mentoring** — guiding juniors in analytics and career growth
 
 ---
 
 ## 💬 Let's Connect
 
-I'm looking for **full-time Business Analyst / Data Analyst / BI roles** — open to relocation across the U.S. and to remote or onsite work.
+I'm looking for **full-time Business Analyst / Data Analyst / BI roles** starting January 2027 — open to relocation across the U.S. and to remote, hybrid, or onsite work.
 
 I'm especially interested in:
 - 📊 Business intelligence, reporting, and decision support
+- ☁️ Data & cloud engineering that feeds better analytics
 - 🔎 Analytics & insights in healthcare, finance, and operations
 - 🧪 Experimentation, forecasting, and statistical analysis
 
@@ -297,6 +311,6 @@ I'm especially interested in:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ManasNikte&color=blue&style=for-the-badge)
 
-*Last Updated: June 2026*
+*Last Updated: July 2026*
 
 </div>
