@@ -27,27 +27,15 @@ I help teams turn messy data into decisions they can act on — and because I sp
 
 I'm completing my **MS in Business Analytics at Northeastern University** (Dec 2026), layering business strategy and analytics on top of a **Computer Engineering** background and 3+ years shipping production software and data infrastructure. I sit comfortably between the business and the engineering: I gather what stakeholders actually need, build the pipeline that gets them clean data, and turn the result into dashboards, models, and recommendations people can act on.
 
-```python
-class BusinessAndDataAnalyst:
-    def __init__(self):
-        self.name = "Manas Nikte"
-        self.role = "Business & Data Analyst"
-        self.location = "Boston, MA"
-        self.education = {
-            "current": "MS Business Analytics @ Northeastern (2025-2026)",
-            "previous": "BE Computer Engineering @ University of Mumbai"
-        }
-        self.foundation = "3+ years founding, building, and shipping production software & data systems"
-        self.strengths = [
-            "Founder & lead engineer — shipped 12+ production apps to 15+ clients",
-            "Cloud data pipelines on AWS (S3, Glue, Athena, DynamoDB)",
-            "BI dashboards & executive storytelling (Tableau, Power BI)",
-            "SQL, statistical modeling & experimentation",
-        ]
-
-    def current_focus(self):
-        return "Helping teams make faster, data-driven decisions"
-```
+**Quick facts:**
+- 🎓 **Education:** MS Business Analytics @ Northeastern (2025–2026) · BE Computer Engineering @ University of Mumbai
+- 🏗️ **Foundation:** 3+ years founding, building, and shipping production software & data systems
+- 👑 **Founder & lead engineer** — shipped 12+ production apps to 15+ clients
+- ☁️ **Cloud & data engineering** — AWS pipelines, a Databricks Lakehouse, and a Kafka streaming pipeline
+- 📊 **BI & storytelling** — dashboards and executive reporting in Tableau and Power BI
+- 🤖 **AI/LLM engineering** — a deployed RAG chatbot with function calling and real evaluation work
+- 🔬 **Analytics** — SQL, statistical modeling, and experimentation
+- 🎯 **Current focus:** helping teams make faster, data-driven decisions
 
 ### 🎯 What I Do
 
@@ -87,16 +75,21 @@ class BusinessAndDataAnalyst:
 **🛠️ Data & Cloud Engineering**
 - SQL querying & optimization
 - AWS pipelines (S3, Glue, Athena, DynamoDB)
-- ETL / data prep & automation (Alteryx, Python)
-- Full-stack & API background (MERN, Flask, PHP)
+- Databricks Lakehouse (PySpark, Delta Lake, Unity Catalog)
+- Streaming pipelines (Kafka/Redpanda), dbt + Snowflake
 
 </td>
 </tr>
 </table>
 
+**🤖 AI / LLM Engineering** — RAG pipelines (embeddings, vector search, retrieval), function calling, LangChain orchestration, and evaluation-driven prompt design — built and deployed, not just studied.
+
 ### 🏆 Key Highlights
 
 ```diff
++ 🏗️  Built a Databricks Lakehouse (PySpark, Delta Lake, Unity Catalog) processing 9.5M+ records
++ 📡 Built a Kafka/Redpanda streaming pipeline with dead-letter handling and a live dashboard
++ 🤖 Built and deployed a production RAG chatbot (LangChain, Chroma, Groq/Llama 3.3) with function calling
 + ☁️  Built an AWS data pipeline from scratch, cutting turnaround from days to minutes
 + 🚀 Founded & ran a software/data services company — 12+ apps shipped to 15+ clients
 + 📊 Delivered 5+ BI dashboards and analytics solutions for real stakeholders
@@ -119,11 +112,24 @@ class BusinessAndDataAnalyst:
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0078C8?style=for-the-badge)
 
 </div>
 
-Hands-on with AWS S3, Glue (Python ETL jobs & crawlers), Athena, and DynamoDB — used to consolidate 50+ data sources into a single production pipeline. DataCamp-certified in Snowflake, Databricks, and Airflow (TaskFlow API, Asset-based scheduling, Delta Lake medallion architecture) and the Azure Developer Associate (AZ-204) track.
+Hands-on with AWS S3, Glue (Python ETL jobs & crawlers), Athena, and DynamoDB — used to consolidate 50+ data sources into a single production pipeline. Built a bronze/silver/gold Lakehouse on Databricks (PySpark, Delta Lake, Unity Catalog) and a Kafka-API (Redpanda) streaming pipeline with dead-letter handling. DataCamp-certified in Snowflake, Databricks, and Airflow (TaskFlow API, Asset-based scheduling) and the Azure Developer Associate (AZ-204) track.
+
+### 🤖 AI / LLM Engineering
+<div>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</div>
+
+Built and deployed a production RAG chatbot: corpus chunking, embeddings (`sentence-transformers`), a Chroma vector store, retrieval + generation via Groq/Llama 3.3, function calling for structured lookups, and evaluation work that caught and fixed a real hallucination bug. DataCamp-certified in Developing AI Applications (prompt engineering, RAG, LangChain).
 
 ### 📈 Business Intelligence & Visualization
 <div>
@@ -154,6 +160,7 @@ Hands-on with AWS S3, Glue (Python ETL jobs & crawlers), Athena, and DynamoDB �
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 
 </div>
 
@@ -172,6 +179,7 @@ Hands-on with AWS S3, Glue (Python ETL jobs & crawlers), Athena, and DynamoDB �
 <div>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
@@ -184,17 +192,17 @@ Hands-on with AWS S3, Glue (Python ETL jobs & crawlers), Athena, and DynamoDB �
 
 ## 💼 Experience
 
-**Cloud Data Analyst** — NM Infocom | Jun 2025 – Aug 2025
+**Data Engineer** — NM Infocom · Full-time | May 2025 – Aug 2025 · Mumbai Metropolitan Region (On-site)
 Designed and deployed an AWS data pipeline from scratch (S3, Glue, Athena, DynamoDB), consolidating 50+ data sources and cutting turnaround from days to under 10 minutes. Replaced static Excel reporting with 5 live SQL dashboards, halving the management decision cycle, and added automated anomaly detection that removed 15+ hrs/week of manual work.
 
-**Founder & Data Solutions Consultant** — WitJab Technologies | Jan 2022 – Dec 2024
-Founded and ran a software & data services company for three years, gathering requirements and delivering data, BI, and web solutions for 15+ SME and startup clients across e-commerce, healthcare, and SaaS. Shipped 12+ production applications (MERN, Django, Flask, PHP/MySQL) — including custom CRM platforms for Evaraa Relaxation Salon, NM Infocom, IR Recordings, and FlickDrive — plus 5+ Tableau/Power BI dashboards, and built integration pipelines that cut manual operational overhead by ~40%.
-
-**Business Analyst Intern** — Nine Ninety Productions
+**Data Analyst** — Nine Ninety · Part-time | Jan 2025 – Apr 2025 · Mumbai, Maharashtra, India
 Built Tableau dashboards that replaced manual reporting and ran revenue analysis that helped leadership reallocate toward higher-margin work.
 
-**Web Development Intern** — Macksofy Technologies | Jun 2024 – Dec 2024
+**Web Development Intern** — Macksofy Technologies Pvt Ltd · Internship | Jun 2024 – Dec 2024 · Mumbai, Maharashtra, India (Hybrid)
 Profiled and rewrote 20+ SQL queries and endpoints (cutting page-load time ~30%) and led knowledge-sharing sessions on SQL optimization for a 10-person team.
+
+**Founder & Lead Engineer** — WitJab Technologies · Self-employed | Jan 2022 – Dec 2024 · Mumbai, Maharashtra, India (Hybrid)
+Founded and ran a software & data services company for three years, gathering requirements and delivering data, BI, and web solutions for 15+ SME and startup clients across e-commerce, healthcare, and SaaS. Shipped 12+ production applications (MERN, Django, Flask, PHP/MySQL) — including custom CRM platforms for Evaraa Relaxation Salon, NM Infocom, IR Recordings, and FlickDrive — plus 5+ Tableau/Power BI dashboards, and built integration pipelines that cut manual operational overhead by ~40%.
 
 ---
 
@@ -210,34 +218,45 @@ AI healthcare platform for PCOS risk prediction reaching **93.39% accuracy** acr
 End-to-end CRM built for a real client via WitJab — appointment automation, a promo engine, multi-role access, and revenue dashboards.
 🔗 [Live](https://evaraarelaxationsalon.com/)
 
-### 👥 Human Resources BI Dashboard
-**`Tableau`** **`Power BI`** **`Excel`** **`Python`**
-Interactive HR analytics dashboard surfacing **5+ workforce KPIs** across **8,950+ records** — demographics, department distribution, and salary trends — with manager-facing drill-downs for self-service exploration.
-🔗 [Repo](https://github.com/ManasNikte/HR-Tableau-Dashboard)
+### 🏗️ NYC Taxi Lakehouse — Databricks Medallion Architecture
+**`Databricks`** **`PySpark`** **`Delta Lake`** **`Unity Catalog`**
+Bronze/silver/gold Lakehouse processing 9.5M+ NYC taxi trips end-to-end — scheduled Databricks Workflow DAG, Unity Catalog lineage tracking, Delta Lake time travel used to diagnose a real data bug, and OPTIMIZE/ZORDER compaction (31 files → 2).
+🔗 [Live Dashboard](https://dbc-3ac1fadd-bf87.cloud.databricks.com/dashboardsv3/01f191cc8c2c122388a6b305780f5825/published?o=7474644639605893)
 
-### 🚴 Bike Sales Analytics Dashboard
-**`Tableau`** **`Power BI`** **`Excel`**
-Sales performance dashboard analyzing **$14.15M in revenue** and **$5.86M profit**, segmented by category, demographics, and region, with year-over-year trend tracking to guide inventory and marketing decisions.
-🔗 [Repo](https://github.com/ManasNikte/Bike-Sales-Analysis-Tableau-Dashboard)
+### 🤖 Portfolio Genie — RAG Chatbot
+**`LangChain`** **`Chroma`** **`Groq/Llama 3.3`** **`Streamlit`**
+A deployed RAG chat app grounded in this portfolio's own project READMEs — chunking, embeddings, retrieval, function calling for structured lookups, source citations, and evaluation work that caught a real false-confidence hallucination.
+🔗 [Live Demo](https://manasportfolio.streamlit.app/) · [Repo](https://github.com/ManasNikte/portfolio-rag-chatbot)
 
-### 📊 Washington EV Market Analysis
-**`Tableau`** **`Data Visualization`**
-Market-adoption dashboard on Washington EV registrations — top makes, county-level density, and year-over-year growth — with drill-down by segment to support market sizing.
-🔗 [Repo](https://github.com/ManasNikte/Washington-EV-Tableau-Dashboard)
+### 📡 Streaming Order Pipeline
+**`Kafka`** **`Redpanda`** **`DuckDB`** **`Streamlit`**
+End-to-end streaming pipeline: a producer publishes synthetic order events to a Kafka-API topic, a consumer validates and micro-batches them into DuckDB, invalid events route to a dead-letter table, and a live dashboard surfaces throughput and data-quality metrics.
 
-### 🎬 Movie Data Enrichment & ETL Automation
-**`Alteryx`** **`Python`** **`SQL`** **`BeautifulSoup`**
-End-to-end ETL workflow that scraped **500+ records**, cleaned and enriched them to **492 analysis-ready rows**, fully automated in Alteryx. **100/100 academic grade.**
-🔗 [Repo](https://github.com/ManasNikte/Movie-Data-Enrichment-Automation-Project)
+### 🛍️ Olist E-Commerce Analytics
+**`dbt`** **`Snowflake`** **`Tableau`**
+dbt project on Snowflake modeling a 9-table Brazilian e-commerce dataset into a star schema, with 33 automated data-quality tests (100% pass rate), generated documentation, and a live Tableau dashboard.
+🔗 [Live Dashboard](https://public.tableau.com/app/profile/manas.nikte/viz/OlistE-commerceAnalytics/Dashboard1?publish=yes)
+
+### 🗂️ Client Services Ops Console
+**`Salesforce`** **`Flow Automation`** **`RBAC`**
+A Salesforce data model and process-automation build for a client-services team — 4 custom objects, validation rules, 2 automated Flows (auto-assignment, aging-ticket alerts), 3 role-based permission sets, and a combined reporting dashboard.
 
 ### 🏥 Predictive Analytics for Diabetic Readmission
 **`R`** **`Python`** **`XGBoost`** **`Statistical Modeling`**
 Multi-model analysis across **101,766 clinical records** that uncovered a "polypharmacy tipping point" (**4x higher readmission risk** above 20 medications) and a Readmission Risk Score — a data-driven case for **~$1.5M in annual cost reduction**.
 🔗 [Repo](https://github.com/ManasNikte/Predicting-30-Day-Hospital-Readmissions-for-Diabetic-Patients)
 
-<details>
-<summary>🧩 <b>More development & ML work</b> (click to expand)</summary>
+### 👥 Human Resources BI Dashboard
+**`Tableau`** **`Power BI`** **`Excel`** **`Python`**
+Interactive HR analytics dashboard surfacing **5+ workforce KPIs** across **8,950+ records** — demographics, department distribution, and salary trends — with manager-facing drill-downs for self-service exploration.
+🔗 [Repo](https://github.com/ManasNikte/HR-Tableau-Dashboard)
 
+<details>
+<summary>🧩 <b>More development, BI & ML work</b> (click to expand)</summary>
+
+- **Bike Sales Analytics Dashboard** — Tableau/Power BI dashboard on $14.15M revenue and $5.86M profit, segmented by category, demographics, and region. [Repo](https://github.com/ManasNikte/Bike-Sales-Analysis-Tableau-Dashboard)
+- **Washington EV Market Analysis** — Tableau dashboard on EV registration adoption trends by make, county, and year. [Repo](https://github.com/ManasNikte/Washington-EV-Tableau-Dashboard)
+- **Movie Data Enrichment & ETL Automation** — Alteryx/Python/SQL pipeline scraping and enriching 500+ records to 492 analysis-ready rows. 100/100 academic grade. [Repo](https://github.com/ManasNikte/Movie-Data-Enrichment-Automation-Project)
 - **Cat or Dog Image Classifier** — CNN + Flask deep-learning web app for real-time image prediction. [Repo](https://github.com/ManasNikte/cat-dog-flask-app)
 - **NM Infocom CRM** — Full-stack CRM with role-based access control (PHP, MySQL, JS).
 - **IR Recordings CRM** — CRM built for a music-production company via WitJab.
@@ -264,12 +283,12 @@ Multi-model analysis across **101,766 clinical records** that uncovered a "polyp
 - 🔷 **Microsoft Azure Developer Associate (AZ-204)**
 - 🟧 **AWS Cloud Practitioner (CLF-C02)**
 
-**Analytics & Finance**
+**Analytics, AI & Finance**
 - 📊 **Data Analysis: SQL, Tableau, Power BI & Excel** | May 2025
 - 🤖 **Machine Learning A-Z (Python & R)** | Jun 2025
+- 🤖 **Developing AI Applications** *(OpenAI API, prompt engineering, RAG, LangChain)* — DataCamp | 2026
 - 📈 **Financial Markets** — Yale University (Prof. Robert Shiller) | Aug 2025
 - 💹 **The Complete Financial Analyst** — 365 Careers | Jul 2025
-- 🤖 **Developing AI Applications** *(OpenAI API, prompt engineering, RAG, LangChain)* — DataCamp | 2026
 
 ---
 
@@ -311,6 +330,6 @@ I'm especially interested in:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ManasNikte&color=blue&style=for-the-badge)
 
-*Last Updated: July 2026*
+*Last Updated: August 2026*
 
 </div>
