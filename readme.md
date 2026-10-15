@@ -28,15 +28,8 @@ I like taking slow, repetitive work and turning it into a system that runs on it
 
 ### Impact
 
-| Where | What changed |
-|---|---|
-| **WitJab Technologies** · Full Stack Developer | Shipped 12+ production web apps for 15+ paying clients and migrated 500K+ records to AWS and MongoDB Atlas with zero data loss |
-| **NM Infocom** · Data Engineer | Built an AWS pipeline (S3, Glue, Athena, DynamoDB) that merged 50+ sources and cut a 3-day processing cycle to under 10 minutes |
-| **[Job Autopilot](https://github.com/ManasNikte/job-autopilot)** | A local AI pipeline in daily use: sweeps ~160K postings from ~4,000 job boards in ~4 minutes, screens them with validated LLM verdicts, and renders tailored PDFs |
-| **[Computer-Use Automation](https://github.com/ManasNikte/computer-use-automation-system)** | An LLM learns a legacy banking UI once (a synthetic stand-in), then the workflow replays deterministically with no model in the loop; 97 tests |
-| **[corn-nir-drift](https://github.com/ManasNikte/corn-nir-drift)** | A tested Python package whose drift detector raised 0% false alarms on held-out data and caught 100% of instrument shifts on a public benchmark |
-| **[NYC Taxi Lakehouse](https://github.com/ManasNikte/nyc-taxi-lakehouse-databricks)** | A bronze, silver, and gold Databricks pipeline over 9.5M+ trips, with a real data bug traced and fixed using Delta time travel |
-| **Research & awards** | Published "OvaCare in Machine Learning" at ICTMT-25 (Apr 2025) · First Prize, Nirmaan National Hackathon (Feb 2023) |
+- Published "OvaCare in Machine Learning" at the ICTMT-25 International Conference (Apr 2025)
+- First Prize, Nirmaan National Hackathon (Feb 2023)
 
 ---
 
