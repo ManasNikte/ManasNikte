@@ -30,6 +30,7 @@ I like taking slow, repetitive work and turning it into a system that runs on it
 
 - Published "OvaCare in Machine Learning" at the ICTMT-25 International Conference (Apr 2025)
 - First Prize, Nirmaan National Hackathon (Feb 2023)
+- President, Coding Club (Sep 2023 - April 2024)
 
 ---
 
